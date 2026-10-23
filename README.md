@@ -7,10 +7,10 @@ Built as a capstone project for FMTALI Data Analytics.
 ## Report preview
 
 **Page 1: Executive performance overview**
-![Executive performance overview](images/executive-overview.jpg)
+![Executive performance overview]
 
 **Page 2: Target variance detail**
-![Target variance detail](images/target-variance.jpg)
+![Target variance detail]
 
 ## Business questions answered
 
